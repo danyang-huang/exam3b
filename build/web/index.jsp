@@ -86,12 +86,21 @@
 
     <!-- Call to Action -->
     <section class="content-section bg-primary text-white" id="portfolio">
-      <div class="container text-center" >
-        <h2 class="mb-4">Here Are My Works</h2>
-        <a href="userStories.pdf" class="btn btn-xl btn-light mr-4">User Stories</a>
-        <a href="dataDiagram.pdf" class="btn btn-xl btn-dark">Class Database Diagrams</a> 
-        <a href="storyboard.pdf" class="btn btn-xl btn-light mr-4">Storyboards</a>
-        <a href="dataFlowDiagram.pdf" class="btn btn-xl btn-dark">Data Flow Diagrams</a>
+      <div class="container text-center" >  
+       
+        <h2 class="mb-4">Projects</h2>
+        <h5 class="mb-4"><p>The Salary Calculator enable the employees to calculate their net pay for the week.</p>
+            <p>The Nars Lipstick Java Web Application allows the Nars employees to read add delete update and search a lipstick. </h5>
+        <a href="http://f17-msci3300-13.azurewebsites.net/HW3/" class="btn btn-xl btn-light mr-4">Salary Calculator</a>
+        <a href="http://f17-msci3300-13.azurewebsites.net/narsLipsticksApp6/" class="btn btn-xl btn-dark">Java Web Application</a>
+        <br>
+        <br><br><br>
+        
+        <h2 class="mb-4">Deliverables</h2>
+        <h5 class="mb-4">Here are deliverables of the lipstick java web application.</h5>
+        <a href="userStories.pdf" class="btn btn-xl btn-light mr-4">User Stories and Storyboards</a>
+        <a href="dataDiagram.pdf" class="btn btn-xl btn-dark">Database and Data Flow Diagrams</a> 
+        
       </div>
     </section>
 
@@ -102,7 +111,7 @@
       <div class="container">
         <ul class="list-inline mb-5">
           <li class="list-inline-item">
-            <a class="social-link rounded-circle text-white mr-3" href="#">
+            <a class="social-link rounded-circle text-white mr-3" href="https://www.facebook.com/demi.young.94">
               <i class="icon-social-facebook"></i>
             </a>
           </li>
